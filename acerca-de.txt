@@ -1,0 +1,46 @@
+Sistema de Planificación de Rutas de Transporte Público - Proyecto Final
+
+Este sistema permite planificar rutas usando transporte público colectivo (combis, micros), incluyendo transbordos y caminatas cortas configurables. El usuario selecciona un origen y un destino en un mapa web, y el sistema le muestra una ruta óptima considerando su preferencia de caminabilidad y número de transbordos.
+
+El sistema fue diseñado para Arequipa, Perú, pero usa datos GTFS reales de Buenos Aires por disponibilidad. El backend está desarrollado en C++20 con Casablanca (cpprestsdk), y la interfaz web en HTML, CSS y JavaScript. Se procesan archivos GTFS: routes.csv, trips.csv y shapes.csv para construir un grafo de rutas conectadas geográficamente.
+
+-----------------------------
+VERSIÓN Y LIBRERÍAS
+
+Lenguaje: C++20  
+CMake mínimo: 3.10  
+Librería externa: cpprestsdk (Casablanca)
+
+Gestor de dependencias: vcpkg  
+Instalación recomendada: vcpkg install cpprestsdk
+
+Estructura del código:
+- src/: código fuente (main.cpp, Sistema.cpp)
+- include/: headers del sistema
+- excepciones/: manejo de errores (no implenetada aún)
+
+-----------------------------
+PASOS PARA COMPILAR Y EJECUTAR
+
+1. Crear carpeta de compilación:
+   mkdir build
+
+2. Entrar a la carpeta:
+   cd build
+
+3. Ejecutar CMake con vcpkg (ajustar ruta si es necesario):
+   cmake .. -DCMAKE_TOOLCHAIN_FILE="C:/Users/Usuario/vcpkg/scripts/buildsystems/vcpkg.cmake"
+
+4. Compilar el proyecto:
+   cmake --build .. --config Release
+
+5. Ejecutar el programa:
+   .\build\Release\main_program.exe
+
+-----------------------------
+REQUISITOS PREVIOS
+
+- Tener instalado CMake (versión 3.10 o superior)
+- Tener instalado vcpkg con cpprestsdk
+- Visual Studio 2019 o superior (en Windows) o GCC/Clang con soporte C++20
+

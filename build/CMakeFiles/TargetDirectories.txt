@@ -1,0 +1,3 @@
+C:/Users/Usuario/Documents/rutas_transporte_publico/build/CMakeFiles/main_program.dir
+C:/Users/Usuario/Documents/rutas_transporte_publico/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Usuario/Documents/rutas_transporte_publico/build/CMakeFiles/ZERO_CHECK.dir

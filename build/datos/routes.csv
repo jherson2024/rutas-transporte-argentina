@@ -1,0 +1,201 @@
+route_id,route_short_name,route_long_name,route_desc
+1,7A,JNAMBA007,Retiro - Pque. Nicolas Avellaneda: a Pque. Avellaneda
+10,OE85,JMLPLAOESTE,Ramal 85: a Est. - 40 y 115
+100,152A,JNAMBA152,La Boca - Olivos: A - a La Boca
+1000,306B,JPBSAS306,Spegazzini - Pte. La Noria: a Pte. La Noria
+1001,306B,JPBSAS306,Spegazzini - Pte. La Noria: a Spegazzini
+1002,306C,JPBSAS306,Spegazzini - Pte. La Noria x Fair: a Pte. La Noria (por Av. Fair)
+1003,306C,JPBSAS306,Spegazzini - Pte. La Noria x Fair: a Spegazzini
+1004,306D,JPBSAS306,Spegazzini - Pte. La Noria x Fair - Au. Ricchieri: a Pte. La Noria (por Av. Fair - Au. Richieri)
+1005,306D,JPBSAS306,Spegazzini - Pte. La Noria x Fair - Au. Ricchieri: a Spegazzini
+1006,306E,JPBSAS306,Pte. La Noria - El Gaucho Trasradio: a El Gaucho Trasradio
+1007,306E,JPBSAS306,Pte. La Noria - El Gaucho Trasradio: a Pte. La Noria
+1008,306F,JPBSAS306,Pte. La Noria - Zaizar: a Zaizar
+1009,306F,JPBSAS306,Pte. La Noria - Zaizar: a Pte. La Noria
+101,214B64,JPBSAS214,Ramal B - 64 155 y 60 - Montevideo y 2: B X 64 (BLANCO) - IDA
+1010,306G,JPBSAS306,Pte. La Noria - La Esperanza: a La Esperanza
+1011,306G,JPBSAS306,Pte. La Noria - La Esperanza: a Pte. La Noria
+1012,312R2,JPBSAS312,Ramal 2 - Pte. Brandsen - Merlo: a Easy x yrigoyen
+1013,312R2,JPBSAS312,Ramal 2 - Pte. Brandsen - Merlo: a Est. merlo
+1014,312R3,JPBSAS312,Ramal 3 - Pte. Brandsen - Villa Leon - Moreno x S. A. de Padua: a Villa Leon
+1015,312R3,JPBSAS312,Ramal 3 - Pte. Brandsen - Villa Leon - Moreno x S. A. de Padua: a Est. Moreno
+1016,329TR1,JPBSAS329,Troncal 1 - San Antonio de Padua - Moreno: a Padua x Zapiola
+1017,329TR1,JPBSAS329,Troncal 1 - San Antonio de Padua - Moreno: a Est. Moreno
+1018,33B,JNAMBA033,Cdad. Universitaria - Monte Chongolo x Barracas y Cement. de Avellaneda: C Cdad. Universitaria x Barracas
+1019,33B,JNAMBA033,Cdad. Universitaria - Monte Chongolo x Barracas y Cement. de Avellaneda: x Barracas hasta Est. Sarandi
+102,214B64,JPBSAS214,Ramal B - 64 155 y 60 - Montevideo y 2: B X 64 (BLANCO) - VUELTA
+1020,329R2,JPBSAS329,Ramal 2 - San Antonio de Padua - Villa Gral. Zapiola: a Zapiola / padua
+1021,329R2,JPBSAS329,Ramal 2 - San Antonio de Padua - Villa Gral. Zapiola: a Confiteria Zapiola
+1022,422R2,JPBSAS422,Ramal 2 - Moreno - Bº Luchetti - C. Banco Provincia: a Bco Provincia x Luchetti
+1023,33C,JNAMBA033,Cdad. Universitaria - Monte Chongolo x Dock Sud y Gral. Madariaga: M Cdad. Universitaria x Dock Sud
+1024,33C,JNAMBA033,Cdad. Universitaria - Monte Chongolo x Dock Sud y Gral. Madariaga: x Dock Sud hasta Est. Sarandi
+1025,33D,JNAMBA033,Cdad. Universitaria - Monte Chongolo x Dock Sud y Cement. de Avellaneda: C Cdad. Universitaria x Dock Sud
+1026,33D,JNAMBA033,Cdad. Universitaria - Monte Chongolo x Dock Sud y Cement. de Avellaneda: x Dock Sud hasta Est. Sarandi
+1027,46A,JNAMBA046,Eva Peron y Av. San Martin - La Boca: a La Boca x Alcorta
+1028,46A,JNAMBA046,Eva Peron y Av. San Martin - La Boca: a San Justo x Alcorta
+1029,720I,JMTIGR720,Canal - Bº El Arco: a B° El Arco
+103,214D,JPBSAS214,Ramal D - Frigorifico Armour x Diagonal 73: D (AMARILLO) - IDA
+1030,720I,JMTIGR720,Canal - Bº El Arco: a Canal
+1031,46B,JNAMBA046,Eva Peron y Av. San Martin - Pza. Constitución: a La Boca x Iriarte
+1032,46B,JNAMBA046,Eva Peron y Av. San Martin - Pza. Constitución: a San Justo x Iriarte
+1033,720J,JMTIGR720,Benavidez - Bº Las Mascotas: a  B° El Arco
+1034,720J,JMTIGR720,Benavidez - Bº Las Mascotas: a Canal
+1035,720K,JMTIGR720,Canal - Villa La Ñata: a Villa LaÑata
+1036,720K,JMTIGR720,Canal - Villa La Ñata: a Canal
+1037,723A,JMTIGR723,Aviación: Aviación - IDA
+1038,723A,JMTIGR723,Aviación: Aviación - VUELTA
+1039,723B,JMTIGR723,Bancalari: a Bancalari - IDA
+104,214D,JPBSAS214,Ramal D - Frigorifico Armour x Diagonal 73: D (AMARILLO) - VUELTA
+1040,723B,JMTIGR723,Bancalari: a Bancalari - VUELTA
+1041,723C,JMTIGR723,Los Dados: Los Dados - IDA
+1042,723D,JMTIGR723,Est. Torcuato - Nordelta: a Nordelta
+1043,723D,JMTIGR723,Est. Torcuato - Nordelta: a Est. Torcuato
+1044,722A,JMTIGR722,Est. Torcuato x 202: Est. Torcuato x 202 - IDA
+1045,295TR1,JPBSAS295,Ramal 1: Ramal 1 - IDA
+1046,295TR1,JPBSAS295,Ramal 1: Ramal 1 - VUELTA
+1047,295R2,JPBSAS295,Ramal 2 - Wilde x Bouchard: Ramal 2 - Wilde x Bouchard - IDA
+1048,295R2,JPBSAS295,Ramal 2 - Wilde x Bouchard: Ramal 2 - Wilde x Bouchard - VUELTA
+1049,295R4,JPBSAS295,Ramal 4 - Barracas x Magan: Ramal 4 - Barracas x Magan - IDA
+105,273A,JPBSAS273,Ramal A 77 y 134 - Av. 32 y Calle 120: A1 (BLANCO)
+1050,295R4,JPBSAS295,Ramal 4 - Barracas x Magan: Ramal 4 - Barracas x Magan - VUELTA
+1051,49B,JNAMBA049,Pra. Junta - Isidro Casanova x Cnel. Olleros: a Isidro Casanova x Cnel. Olleros
+1052,49B,JNAMBA049,Pra. Junta - Isidro Casanova x Cnel. Olleros: a Pra. Junta
+1053,295R5,JPBSAS295,Ramal 5 - Barracas x Cordoba: Ramal 5 - Barracas x Cordoba - IDA
+1054,295R5,JPBSAS295,Ramal 5 - Barracas x Cordoba: Ramal 5 - Barracas x Cordoba - VUELTA
+1055,252A,JPBSAS252,Carapachay x Almeyra: a Carapachay x Almeyra - IDA
+1056,252A,JPBSAS252,Carapachay x Almeyra: a Carapachay x Almeyra - VUELTA
+1057,252B,JPBSAS252,Palomar x Av. de Mayo: Palomar x Av. de Mayo - IDA
+1058,252B,JPBSAS252,Palomar x Av. de Mayo: Palomar x Av. de Mayo - VUELTA
+1059,263BA,JPBSAS263B,Est. Burzaco - Villa Alcira x 837: a Villa Alcira x 837
+106,273A,JPBSAS273,Ramal A 77 y 134 - Av. 32 y Calle 120: A2  (BLANCO)
+1060,263BA,JPBSAS263B,Est. Burzaco - Villa Alcira x 837: a Est. Burzaco x 837
+1061,263BB,JPBSAS263B,Est. Burzaco - Villa Alcira x 835: a Villa Alcira x 835
+1062,263BB,JPBSAS263B,Est. Burzaco - Villa Alcira x 835: a Est. Burzaco x 835
+1063,263BC,JPBSAS263B,Est. Burzaco - Villa Alcira x 844: a Villa Alcira x 844
+1064,263BC,JPBSAS263B,Est. Burzaco - Villa Alcira x 844: a Est. Burzaco x 844
+1065,630R1,JMLMTZ630,Pza. San Justo: Pza. San Justo - IDA
+1066,630R1,JMLMTZ630,Pza. San Justo: Pza. San Justo - VUELTA
+1067,630R2,JMLMTZ630,Laferrere x RP 21: Laferrere x RP 21 - IDA
+1068,630R2,JMLMTZ630,Laferrere x RP 21: Laferrere x RP 21 - VUELTA
+1069,630R3,JMLMTZ630,Laferrere x Victor Martinez: Laferrere x Victor Martinez - IDA
+107,273B11,JPBSAS273,Ramal B - 11 77 y 134 - Est. City Bell x Calle 11: a B11 (VERDE) - IDA
+1070,630R3,JMLMTZ630,Laferrere x Victor Martinez: Laferrere x Victor Martinez - VUELTA
+1071,630R4,JMLMTZ630,Isidro Casanova: Isidro Casanova - IDA
+1072,247R2,JPBSAS247,Ramal 2: 2 - VUELTA
+1073,247R5,JPBSAS247,Ramal 5: 5 - IDA
+1074,247R5,JPBSAS247,Ramal 5: 5 - VUELTA
+1075,247R7,JPBSAS247,Ramal 7: 7 - IDA
+1076,247R7,JPBSAS247,Ramal 7: 7 - VUELTA
+1077,395C,JPBSAS395,Est. Morón - Ituzaingó: a Ituzaingo - San Alberto
+1078,395C,JPBSAS395,Est. Morón - Ituzaingó: a Morón
+1079,318TRONC,JPBSAS318,Troncal - Pte. La Noria - Claypole: a Est. CLAyPOLE x ADROGUE
+108,273B11,JPBSAS273,Ramal B - 11 77 y 134 - Est. City Bell x Calle 11: a B11 (VERDE) - VUELTA
+1080,318TRONC,JPBSAS318,Troncal - Pte. La Noria - Claypole: a Pte. La Noria x ADROGUE
+1081,318A,JPBSAS318,Est. Lomas de Zamora - Est. Turdera: a Est. LOMAS
+1082,318A,JPBSAS318,Est. Lomas de Zamora - Est. Turdera: a Est. TURDERA x RIEGO NUí‘EZ
+1083,318B,JPBSAS318,Pte. La Noria - Montegrande: a MONTE GRANDE x SEGUI
+1084,318B,JPBSAS318,Pte. La Noria - Montegrande: a Pte. DE La Noria
+1085,318C,JPBSAS318,Pte. La Noria - Est. Claypole x Burzaco: a Est. CLAyPOLE x BURZACO
+1086,318C,JPBSAS318,Pte. La Noria - Est. Claypole x Burzaco: a Pte. DE La Noria x BURZACO
+1087,318D,JPBSAS318,Pte. La Noria - Rodriguez Virgilioio: a RODRIGUEZ y VIRGILIO
+1088,318D,JPBSAS318,Pte. La Noria - Rodriguez Virgilioio: a Pte. La Noria
+1089,318E,JPBSAS318,Alvear - Est. Adrogue: a Est. ADROGUE
+109,273BC,JPBSAS273,Ramal BC - 77 y 134 - Est. City Bell x Cantilo: a BC (VERDE) - IDA
+1090,333,JPBSAS333A,Troncal: a Olivos
+1091,333,JPBSAS333A,Troncal: a S.Isidro - Htal. - Pto.
+1092,407A,JPBSAS407,Blanco: Directo - Hosp.de Niños - Munro - IDA
+1093,407A,JPBSAS407,Blanco: Directo - Hosp.de Niños - Munro - VUELTA
+1094,437A,JPBSAS437,Amarillo: a Garin
+1095,437A,JPBSAS437,Amarillo: a San Isidro - Bajo
+1096,437B,JPBSAS437,Amarillo Boulogne: a San Isidro
+1097,437B,JPBSAS437,Amarillo Boulogne: a Boulogne
+1098,59B,JNAMBA059,Ramal 2 - Est. BsAs x Bº Golf - Int. Cnel. A. Avalos y D. De Acassuso: R2 x B° Golf a Int. Cnel. Avalos y De Acassuso
+1099,59B,JNAMBA059,Ramal 2 - Est. BsAs x Bº Golf - Int. Cnel. A. Avalos y D. De Acassuso: R2 x B° Golf a Estación BsAs
+11,107A,JNAMBA107,Eva Peron - Cdad. Universitaria: a Cdad. Universitaria
+110,273BC,JPBSAS273,Ramal BC - 77 y 134 - Est. City Bell x Cantilo: a BC (VERDE) - VUELTA
+1100,521AA,JMLANU521,Ituzaingo y 29 de Septiembre - Lynch: a Lynch
+1101,521AA,JMLANU521,Ituzaingo y 29 de Septiembre - Lynch: a Ituzaingo y 29 de Septiembre
+1102,526A,JMLANU526,Ituzaingo y 29 de Septiembre - La Cadorna: a La Cadorna
+1103,526A,JMLANU526,Ituzaingo y 29 de Septiembre - La Cadorna: a Ituzaingo y 29 de Septiembre
+1104,59C,JNAMBA059,Ramal 3 - Est. BsAs - Puente Saavedra: R3 - a Puente Saavedra
+1105,59C,JNAMBA059,Ramal 3 - Est. BsAs - Puente Saavedra: R3 - a Estación Buenos Aires
+1106,336A,JPBSAS336,Paso del Rey - Morón: a Morón
+1107,336A,JPBSAS336,Paso del Rey - Morón: a PASO DEL REy
+1108,624A,JMLMTZ624,Cement. de Villegas - Est. Ramos Mejia x Leon Gallo: a Est. Ramos Mejia x Leon Gallo
+1109,624A,JMLMTZ624,Cement. de Villegas - Est. Ramos Mejia x Leon Gallo: a Cement. de Villegas x Leon Gallo
+111,273BG,JPBSAS273,Ramal BG - 77 y 134 - Laboratorio Lederle: a BG (VERDE) - IDA
+1110,624B,JMLMTZ624,Cement. de Villegas - Bº Central x Mocoreta: a B° Central x Mocoreta
+1111,624B,JMLMTZ624,Cement. de Villegas - Bº Central x Mocoreta: a Cement. de Villegas x Mocoreta
+1112,624C,JMLMTZ624,Bº Bid - Atalaya: a Atalaya
+1113,624C,JMLMTZ624,Bº Bid - Atalaya: a B° Bid
+1114,624D,JMLMTZ624,La Tablada - Los Pinos: a Los Pinos
+1115,624D,JMLMTZ624,La Tablada - Los Pinos: a La Tablada
+1116,624E,JMLMTZ624,Los Pinos - Ramos Mejia: a Ramos Mejia
+1117,624E,JMLMTZ624,Los Pinos - Ramos Mejia: a Los Pinos
+1118,85B,JNAMBA085,Balneario de Quilmes - Ciudadela Norte x Pte. Gerli: a Ciudadela Norte x Pte. Gerli
+1119,85B,JNAMBA085,Balneario de Quilmes - Ciudadela Norte x Pte. Gerli: a Balneario de Quilmes
+112,273BG,JPBSAS273,Ramal BG - 77 y 134 - Laboratorio Lederle: a BG (VERDE) - VUELTA
+1120,85C,JNAMBA085,Balneario de Quilmes - Ciudadela Norte: a Ciudadela Norte
+1121,85C,JNAMBA085,Balneario de Quilmes - Ciudadela Norte: a Balneario de Quilmes
+1122,85D,JNAMBA085,Pompeya - Ciudadela Norte: a Ciudadela Norte
+1123,85D,JNAMBA085,Pompeya - Ciudadela Norte: a Pompeya
+1124,307A2,JPBSAS307,Ramal A - El Carmen: Ramal A - El Carmen - IDA
+1125,307DA,JPBSAS307,Ramal D - Paraje La Armonia: Ramal D - Paraje La Armonia - IDA
+1126,307DA,JPBSAS307,Ramal D - Paraje La Armonia: Ramal D - Paraje La Armonia - VUELTA
+1127,88A,JNAMBA088,Ramal A - Pza. Miserere x Av. Rivadavia - Lobos: Ramal A - Lobos
+1128,88A,JNAMBA088,Ramal A - Pza. Miserere x Av. Rivadavia - Lobos: Ramal A - Pza. Miserere x Av. Rivadavia
+1129,307F,JPBSAS307,Ramal F: Ramal F - IDA
+113,273F,JPBSAS273,Ramal F - 77 y 134 - Gorina x Cno. Pque. Centenario: F (ROJA) a 77 y 134
+1130,307F,JPBSAS307,Ramal F: Ramal F - VUELTA
+1131,276I,JPBSAS276,Lujan - Tres Sargentos: a Tres Sargentos
+1132,276I,JPBSAS276,Lujan - Tres Sargentos: a Lujan
+1133,276J,JPBSAS276,El Cazador - San Andres de Giles: a San Andres de Giles
+1134,276J,JPBSAS276,El Cazador - San Andres de Giles: a El Cazador
+1135,88B,JNAMBA088,Ramal B - Pza. Miserere x Av. J. B. Alberdi - Lobos: Ramal B - Lobos
+1136,88B,JNAMBA088,Ramal B - Pza. Miserere x Av. J. B. Alberdi - Lobos: Ramal B - Pza. Miserere x Av. J. B. Alberdi
+1137,203A,JPBSAS203,Pte. Saavedra - Moreno x canal San Fernando: a Moreno x canal San Fernando
+1138,203A,JPBSAS203,Pte. Saavedra - Moreno x canal San Fernando: a Pte. Saavedra
+1139,544B,JMLDZM544,Ramal B - Est. Lomas de Zamora - A. Bello: Ramal B - a A. Bello
+114,188A,JNAMBA188,Pza. Italia - Est. Ing. Budge: a Est. Ing. Budge
+1140,544B,JMLDZM544,Ramal B - Est. Lomas de Zamora - A. Bello: Ramal B - a Est. Lomas de Zamora
+1141,203B,JPBSAS203,Pte. Saavedra - Moreno x Virreyes: a Moreno x Virreyes
+1142,203B,JPBSAS203,Pte. Saavedra - Moreno x Virreyes: a Pte. Saavedra
+1143,203C,JPBSAS203,Pte. Saavedra - Moreno x Panamericana: a Moreno x Panamericana
+1144,203C,JPBSAS203,Pte. Saavedra - Moreno x Panamericana: a Pte. Saavedra
+1145,203E,JPBSAS203,Pte. Saavedra - Pilar x Ford: a Pilar x Ford
+1146,203E,JPBSAS203,Pte. Saavedra - Pilar x Ford: a Pte. Saavedra
+1147,203F,JPBSAS203,Pte. Saavedra - Pilar x Del Viso: a Pilar x Del Viso
+1148,203F,JPBSAS203,Pte. Saavedra - Pilar x Del Viso: a Pte. Saavedra
+1149,203G,JPBSAS203,Pte. Saavedra - Pilar x Ruta 9: a Pilar x Ruta 9
+115,188A,JNAMBA188,Pza. Italia - Est. Ing. Budge: a Pza. Italia
+1150,203G,JPBSAS203,Pte. Saavedra - Pilar x Ruta 9: a Pte. Saavedra
+1151,88C,JNAMBA088,Ramal C - Pza. Miserere x Av. Rivadavia y RN 205 - Est. Cañuelas: Ramal C - Est. Cañuelas
+1152,88C,JNAMBA088,Ramal C - Pza. Miserere x Av. Rivadavia y RN 205 - Est. Cañuelas: Ramal C - Pza. Miserere x Av. Rivadavia y RN 205
+1153,203H,JPBSAS203,Pte. Saavedra - Maquinista Savio: a Maquinista Savio
+1154,203H,JPBSAS203,Pte. Saavedra - Maquinista Savio: a Pte. Saavedra
+1155,203I,JPBSAS203,Pte. Saavedra - Pilar x Acc. Norte: a Pilar x Acce. Norte
+1156,203I,JPBSAS203,Pte. Saavedra - Pilar x Acc. Norte: a Pte. Saavedra
+1157,302A,JPBSAS302,Est. Moreno - Reconquista y Gral. Paz: a Reconquista y Gral. Paz
+1158,302A,JPBSAS302,Est. Moreno - Reconquista y Gral. Paz: a Est. Moreno
+1159,302B,JPBSAS302,Est. Moreno - Est. Morón: a Est. Moreno
+116,273G,JPBSAS273,Ramal G - 77 y 134 - Arturo Seguí x Cno. Gral. Belgrano: G (VERDE) a 77 y 134
+1160,302C,JPBSAS302,Est. Moreno - Reconquista y Gral.. Paz: a Reconquista y Gral.. Paz
+1161,302C,JPBSAS302,Est. Moreno - Reconquista y Gral.. Paz: a Est. Moreno
+1162,244A,JPBSAS244,Est. Morón - Ruta 202 y Panamericana: a Ruta 202 y Panamericana
+1163,244A,JPBSAS244,Est. Morón - Ruta 202 y Panamericana: a Est. Morón
+1164,244B,JPBSAS244,Est. Morón - Buen Ayre y Panamericana: a Buen Ayre y Panamericana
+1165,244B,JPBSAS244,Est. Morón - Buen Ayre y Panamericana: a Est. Morón
+1166,244C,JPBSAS244,Est. Morón - Lavalle: a Lavalle
+1167,244C,JPBSAS244,Est. Morón - Lavalle: a Est. Morón
+1168,88D,JNAMBA088,Ramal D - Pza. Miserere x Av. J. B. Alberdi y RN 205 - Est. Cañuelas: Ramal D - Est. Cañuelas
+1169,88D,JNAMBA088,Ramal D - Pza. Miserere x Av. J. B. Alberdi y RN 205 - Est. Cañuelas: Ramal D - Pza Miserere x Av J.B. Alberdi y RN 205
+117,273CENT,JPBSAS273,Semirápido x Centenario: TOP CENTENARIO (ROJO) - IDA
+1170,204BA,JPBSAS204B,San Martin - Escobar: a SAN MARTIN X FORD X PACHECO
+1171,204BA,JPBSAS204B,San Martin - Escobar: a ESCOBAR X PACHECO X FORD
+1172,88E,JNAMBA088,Ramal E - Pza. Miserere x Av. Rivadavia - RN 3: Ramal E - RN 3 x Rivadavia
+1173,88E,JNAMBA088,Ramal E - Pza. Miserere x Av. Rivadavia - RN 3: Ramal E - Pza. Miserere x Av. Rivadavia
+1174,204BC,JPBSAS204B,San Martin - Zarate: a SAN MARTIN X ESCOBAR X FORD X PACHECO
+1175,204BC,JPBSAS204B,San Martin - Zarate: a ZARATE X ESCOBAR X CAMPANA
+1176,228EA,JPBSAS228E,Est. Garín - Pte. Saavedra: a Est. Pilar
+1177,228EB,JPBSAS228E,Pte. Saavedra - Est. Benavidez: a  B° Las Mascotas
+1178,228EB,JPBSAS228E,Pte. Saavedra - Est. Benavidez: a Benavidez
